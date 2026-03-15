@@ -2,7 +2,7 @@
 THIS IS MY PROFILE
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is KULAN and I'm a cybersecurity student  from SRI LANKA</h2>
+<h2 align="left">Hi 👋! My name is KULAN, and I'm a cybersecurity student  from SRI LANKA</h2>
 
 ###
 
