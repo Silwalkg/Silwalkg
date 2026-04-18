@@ -25,25 +25,25 @@
 
 ```python
 class Kulan:
-    name       = "Kulan Liyanage"
-    username   = "Silwalkg"
-    location   = "Sri Lanka 🇱🇰"
-    university = "Plymouth University"
-    degree     = "BSc Computer Security (Undergraduate)"
+    Name       = "Kulan Liyanage"
+    Username   = "Silwalkg"
+    Location   = "Sri Lanka 🇱🇰"
+    University = "Plymouth University"
+    Degree     = "BSc Computer Security (Undergraduate)"
 
-    interests  = [
+    Interests  = [
         "Cybersecurity & Ethical Hacking",
         "Machine Learning for Security",
         "Network Security & Threat Analysis",
     ]
 
-    currently  = {
+    Currently  = {
         "learning"  : ["Advanced Penetration Testing", "Deep Learning for IDS"],
         "building"  : ["Smart Security Systems"],
         "exploring" : ["Zero-Trust Architecture", "Threat Intelligence"],
     }
 
-    fun_fact   = "I turn network packets into insights 📡"
+    Fun_fact   = "I turn network packets into insights 📡"
 ```
 
 ---
