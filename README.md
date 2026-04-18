@@ -33,7 +33,6 @@ class Kulan:
 
     interests  = [
         "Cybersecurity & Ethical Hacking",
-        "Intrusion Detection Systems (IDS)",
         "Machine Learning for Security",
         "Network Security & Threat Analysis",
     ]
