@@ -108,7 +108,7 @@ class Kulan:
 
 <div align="center">
 
-| 🔭 Working On | 📚 Learning | 🎯 Goals 2025 |
+| 🔭 Working On | 📚 Learning | 🎯 Goals 2026 |
 |:---:|:---:|:---:|
 | Smart IDS with ML | Advanced Pen Testing | CEH / CompTIA Security+ |
 | Network Threat Analysis | Deep Learning | Contribute to Open Source Security |
